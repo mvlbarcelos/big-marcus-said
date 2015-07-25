@@ -23,9 +23,9 @@ def write_in_image(text, img_path)
 
     position = 0
     text.split("\n").each do |row|
-        drawing.annotate(img, 0, 0, 1, position += 20, row) do
+        drawing.annotate(img, 0, 0, 1, position += 30, row) do
             self.font = 'Verdana'
-            self.pointsize = 25
+            self.pointsize = 30
             self.fill = 'white'
             self.font_weight = Magick::BoldWeight
         end
@@ -36,7 +36,7 @@ def write_in_image(text, img_path)
 end
 
 
-def word_wrap(text, columns = 50)
+def word_wrap(text, columns = 40)
   text.split("\n").collect do |line|
     line.length > columns ? line.gsub(/(.{1,#{columns}})(\s+|$)/, "\\1\n").strip : line
   end * "\n"
