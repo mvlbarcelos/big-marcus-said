@@ -26,6 +26,7 @@ def write_in_image(text, img_path)
         drawing.annotate(img, 0, 0, 1, position += 20, row) do
             self.font = 'Verdana'
             self.pointsize = 25
+            self.fill = 'white'
             self.font_weight = Magick::BoldWeight
         end
     end
