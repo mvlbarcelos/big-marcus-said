@@ -2,6 +2,20 @@ require 'sinatra'
 require 'RMagick'
 include Magick
 
+get '/wendola-sad/:text' do
+    content_type 'image/jpg'
+
+    text = word_wrap params['text']
+    write_in_image(text, "static/pictures/w$-sad.jpg")
+end
+
+get '/wendola-happy/:text' do
+    content_type 'image/jpg'
+
+    text = word_wrap params['text']
+    write_in_image(text, "static/pictures/w$-happy.jpg")
+end
+
 get '/angry/:text' do
     content_type 'image/jpg'
 
