@@ -2,12 +2,21 @@ require 'sinatra'
 require 'RMagick'
 include Magick
 
+get '/' do
+    html :index
+end
+
+def html(view)
+      File.read(File.join('public', "#{view.to_s}.html"))
+end
+
 get '/:meme/:text' do
     content_type 'image/jpg'
 
     text = word_wrap params['text']
     filename = params['meme']
-    write_in_image(text, "static/pictures/" + filename + ".jpg")
+    puts filename
+    write_in_image(text, "public/static/pictures/" + filename + ".jpg")
 end
 
 def write_in_image(text, img_path)

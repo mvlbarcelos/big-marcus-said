@@ -1,4 +1,9 @@
 # big-marcus-said
 Memes
-big-marcus-said.herokuapp.com/angry/seu texto
-big-marcus-said.herokuapp.com/happy/seu texto
+URLS
+
+http://big-marcus-said.herokuapp.com/happy/seu texto
+http://big-marcus-said.herokuapp.com/angry/seu texto
+http://big-marcus-said.herokuapp.com/wagner/seu texto
+http://big-marcus-said.herokuapp.com/w$-sad/seu texto
+http://big-marcus-said.herokuapp.com/w$-happy/seu texto
