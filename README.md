@@ -6,32 +6,32 @@ https://big-marcus-said.herokuapp.com/:meme/:text
 ## examples
 
 * Marcão
- * [Marcão Happy](http://big-marcus-said.herokuapp.com/happy/seu+texto)
- * [Marcão Angry](http://big-marcus-said.herokuapp.com/angry/seu+texto)
- * [Marcão Preocupado](http://big-marcus-said.herokuapp.com/marcao-eita/seu+texto)
- * [Marcão Relax](http://big-marcus-said.herokuapp.com/marcao-relax/seu+texto)
- * [Marcão Fuck You](http://big-marcus-said.herokuapp.com/fuckyou/seu+texto)
+ * [Marcão Happy](http://big-marcus-said.herokuapp.com/happy/your%20zueira%20here)
+ * [Marcão Angry](http://big-marcus-said.herokuapp.com/angry/your%20zueira%20here)
+ * [Marcão Preocupado](http://big-marcus-said.herokuapp.com/marcao-eita/your%20zueira%20here)
+ * [Marcão Relax](http://big-marcus-said.herokuapp.com/marcao-relax/your%20zueira%20here)
+ * [Marcão Fuck You](http://big-marcus-said.herokuapp.com/fuckyou/your%20zueira%20here)
 
 * Wanger
- * [Colisão](http://big-marcus-said.herokuapp.com/colisao/seu+texto)
- * [Wagner](http://big-marcus-said.herokuapp.com/wagner/seu+texto)
- * [Wanguinha](http://big-marcus-said.herokuapp.com/wanguinha/seu+texto)
+ * [Colisão](http://big-marcus-said.herokuapp.com/colisao/your%20zueira%20here)
+ * [Wagner](http://big-marcus-said.herokuapp.com/wagner/your%20zueira%20here)
+ * [Wanguinha](http://big-marcus-said.herokuapp.com/wanguinha/your%20zueira%20here)
 
 * W$
- * [W$ Sad](http://big-marcus-said.herokuapp.com/w$-sad/seu+texto)
- * [W$ Happy](http://big-marcus-said.herokuapp.com/w$-happy/seu+texto)
+ * [W$ Sad](http://big-marcus-said.herokuapp.com/w$-sad/your%20zueira%20here)
+ * [W$ Happy](http://big-marcus-said.herokuapp.com/w$-happy/your%20zueira%20here)
 
 * Thiaguinho
- * [Thiaguinho Happy](http://big-marcus-said.herokuapp.com/thiaguinho-happy/seu+texto)
- * [Thiaguinho Sad](http://big-marcus-said.herokuapp.com/thiaguinho-sad/seu+texto)
- * [Thiaguinho Crazy](http://big-marcus-said.herokuapp.com/thiaguinho/seu+texto)
+ * [Thiaguinho Happy](http://big-marcus-said.herokuapp.com/thiaguinho-happy/your%20zueira%20here)
+ * [Thiaguinho Sad](http://big-marcus-said.herokuapp.com/thiaguinho-sad/your%20zueira%20here)
+ * [Thiaguinho Crazy](http://big-marcus-said.herokuapp.com/thiaguinho/your%20zueira%20here)
 
 * Droopy
- * [Droopy](http://big-marcus-said.herokuapp.com/droopy/seu+texto)
- * [Droopy Happy](http://big-marcus-said.herokuapp.com/droopyHappy/seu+texto)
+ * [Droopy](http://big-marcus-said.herokuapp.com/droopy/your%20zueira%20here)
+ * [Droopy Happy](http://big-marcus-said.herokuapp.com/droopyHappy/your%20zueira%20here)
 
 * Other
- * [Murrad](http://big-marcus-said.herokuapp.com/murrad/seu+texto)
- * [I Think](http://big-marcus-said.herokuapp.com/ithink/seu+texto)
- * [Kayan](http://big-marcus-said.herokuapp.com/kayan/seu+texto)
- * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/seu+texto)
+ * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
+ * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
+ * [Kayan](http://big-marcus-said.herokuapp.com/kayan/your%20zueira%20here)
+ * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/your%20zueira%20here)
