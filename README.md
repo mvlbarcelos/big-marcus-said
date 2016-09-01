@@ -41,7 +41,7 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [Temer Preocupado](http://big-marcus-said.herokuapp.com/temer-preocupado/Temer%20temendo)
 
 * Trump
- * [Trump Fuck You](http://big-marcus-said.herokuapp.com/trump-fuckyou/You%20%are%20fired)
+ * [Trump Fuck You](http://big-marcus-said.herokuapp.com/trump-fuckyou/You%27re%20fired)
  * [Trump Joinha](http://big-marcus-said.herokuapp.com/trump-joinha/Make%20America%20great%20again)
 
 * Other
