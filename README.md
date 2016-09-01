@@ -40,6 +40,10 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [Temer Joinha](http://big-marcus-said.herokuapp.com/temer-joinha/J%C3%A1%20pagou%20seus%20impostos%3F)
  * [Temer Preocupado](http://big-marcus-said.herokuapp.com/temer-preocupado/Temer%20temendo)
 
+* Trump
+ * [Trump Fuck You](http://big-marcus-said.herokuapp.com/trump-fuckyou/You%20%are%20fired)
+ * [Trump Joinha](http://big-marcus-said.herokuapp.com/trump-joinha/Make%20America%20great%20again)
+
 * Other
  * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
