@@ -30,10 +30,13 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [Droopy](http://big-marcus-said.herokuapp.com/droopy/your%20zueira%20here)
  * [Droopy Happy](http://big-marcus-said.herokuapp.com/droopyHappy/your%20zueira%20here)
 
-* Temer
+* Presidenta Dilma
  * [Temer](http://big-marcus-said.herokuapp.com/temer/Eu%20que%20mando%20aqui)
- * [Temer Joinha](http://big-marcus-said.herokuapp.com/temer/Ta%20tranquilo%20Ta%20favoravel)
- * [Temer Preocupado](http://big-marcus-said.herokuapp.com/temer/Essa%20parada%20vai%20dar%20merda)
+
+* Presidente Temer
+ * [Temer](http://big-marcus-said.herokuapp.com/dilma-ok.jpg/Estou%20de%20ferias)
+ * [Temer Joinha](http://big-marcus-said.herokuapp.com/dilma-joinha/Ta%20tranquilo%20Ta%20favoravel)
+ * [Temer Preocupado](http://big-marcus-said.herokuapp.com/dilma-preocupada.jpg/Essa%20parada%20vai%20dar%20merda)
 
 * Other
  * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
