@@ -30,17 +30,22 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [Droopy](http://big-marcus-said.herokuapp.com/droopy/your%20zueira%20here)
  * [Droopy Happy](http://big-marcus-said.herokuapp.com/droopyHappy/your%20zueira%20here)
 
-* Presidenta Dilma
- * [Temer](http://big-marcus-said.herokuapp.com/temer/Eu%20que%20mando%20aqui)
+* Ex-presidenta Dilma
+ * [Dilma OK](http://big-marcus-said.herokuapp.com/dilma-ok/Estou%20de%20ferias)
+ * [Dilma Joinha](http://big-marcus-said.herokuapp.com/dilma-joinha/Ta%20tranquilo%20Ta%20favoravel)
+ * [Dilma Preocupada](http://big-marcus-said.herokuapp.com/dilma-preocupada/Essa%20parada%20vai%20dar%20merda)
 
 * Presidente Temer
- * [Temer](http://big-marcus-said.herokuapp.com/dilma-ok.jpg/Estou%20de%20ferias)
- * [Temer Joinha](http://big-marcus-said.herokuapp.com/dilma-joinha/Ta%20tranquilo%20Ta%20favoravel)
- * [Temer Preocupado](http://big-marcus-said.herokuapp.com/dilma-preocupada.jpg/Essa%20parada%20vai%20dar%20merda)
+ * [Temer](http://big-marcus-said.herokuapp.com/temer/Eu%20que%20mando%20aqui)
+ * [Temer Joinha](http://big-marcus-said.herokuapp.com/temer-joinha/J%C3%A1%20pagou%20seus%20impostos%3F)
+ * [Temer Preocupado](http://big-marcus-said.herokuapp.com/temer-preocupado/Temer%20temendo)
+
+* Trump
+ * [Trump Fuck You](http://big-marcus-said.herokuapp.com/trump-fuckyou/You%20%are%20fired)
+ * [Trump Joinha](http://big-marcus-said.herokuapp.com/trump-joinha/Make%20America%20great%20again)
 
 * Other
  * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
  * [Kayan](http://big-marcus-said.herokuapp.com/kayan/your%20zueira%20here)
  * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/your%20zueira%20here)
- 
