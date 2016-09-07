@@ -5,6 +5,8 @@ GEM
     rack-protection (1.5.3)
       rack
     rmagick (2.16.0)
+    shotgun (0.9.1)
+      rack (>= 1.0)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -16,6 +18,7 @@ PLATFORMS
 
 DEPENDENCIES
   rmagick
+  shotgun (~> 0.9.1)
   sinatra (~> 1.4)
 
 RUBY VERSION
