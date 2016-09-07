@@ -15,29 +15,45 @@ get '/:meme/:text' do
 
     text = word_wrap params['text']
     filename = params['meme']
-    puts filename
-    write_in_image(text, "public/static/pictures/" + filename + ".jpg")
+    text_customization = extract_text_customization(params)
+    write_in_image(text, "public/static/pictures/#{filename}.jpg", text_customization)
 end
 
-def write_in_image(text, img_path)
-
+def write_in_image(text, img_path, text_customization)
     img = Magick::Image.read(img_path).first
     drawing = Magick::Draw.new
 
-    position = 0
     text.split("\n").each do |row|
-        drawing.annotate(img, 0, 0, 1, position += 30, row) do
-            self.font = 'Verdana'
-            self.pointsize = 30
-            self.fill = 'white'
-            self.font_weight = Magick::BoldWeight
+        drawing.annotate(img, 0, 0, 0, 0, row) do
+            text_customization.each do |property, value|
+              self.send("#{property.to_s}=", value)
+            end
         end
     end
 
     img.format = 'jpg'
-    img.to_blob  
+    img.to_blob
 end
 
+def extract_text_customization(params)
+  {
+    font_family: params.fetch('font-family', 'verdana'),
+    pointsize: params.fetch('font-size', '30').to_i,
+    stroke: params.fetch('stroke', 'transparent'),
+    fill: params.fetch('font-color', 'white'),
+    font_style: load_const(params.fetch('font-style', 'normal'), 'Style'),
+    font_weight: load_const(params.fetch('font-weight', 'bold'), 'Weight'),
+    gravity: load_const(params.fetch('gravity', 'north_west'), 'Gravity')
+  }
+end
+
+def load_const(value, type)
+  Magick.const_get("#{camelize(value)}#{type}")
+end
+
+def camelize(text)
+  text.split('_').map(&:capitalize).join
+end
 
 def word_wrap(text, columns = 40)
   text.split("\n").collect do |line|
