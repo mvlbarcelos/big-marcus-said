@@ -1,7 +1,31 @@
 # big-marcus-said
 
-## usage
+## Usage
+
 https://big-marcus-said.herokuapp.com/:meme/:text
+
+### Text Customizations
+
+You can customize the text with the following options:
+
+* font-family:
+    * default: verdana
+* font-size:
+    * default: 30
+* stroke:
+    * default: transparent
+* font-color:
+    * default: white
+* font-style:
+    * default: normal
+* font-weight:
+    * default: bold
+* gravity:
+    * default: north_west
+
+Example: https://big-marcus-said.herokuapp.com/:meme/:text?font-family=courier&font-size=50&font-color=red&gravity=center
+
+[more info](https://rmagick.github.io/draw.html)
 
 ## examples
 
@@ -49,3 +73,13 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
  * [Kayan](http://big-marcus-said.herokuapp.com/kayan/your%20zueira%20here)
  * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/your%20zueira%20here)
+
+## Development
+
+### Get Started
+
+`bundle install`
+
+### Run it
+
+`bundle exec shotgun --port=3000 config.ru`
