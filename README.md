@@ -49,3 +49,13 @@ https://big-marcus-said.herokuapp.com/:meme/:text
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
  * [Kayan](http://big-marcus-said.herokuapp.com/kayan/your%20zueira%20here)
  * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/your%20zueira%20here)
+
+## Development
+
+### Get Started
+
+`bundle install`
+
+### Run it
+
+`bundle exec shotgun --port=3000 config.ru`
