@@ -73,6 +73,7 @@ Example: https://big-marcus-said.herokuapp.com/:meme/:text?font-family=courier&f
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
  * [Kayan](http://big-marcus-said.herokuapp.com/kayan/your%20zueira%20here)
  * [Guilhermino](http://big-marcus-said.herokuapp.com/guilhermino/your%20zueira%20here)
+ * [Rod](http://big-marcus-said.herokuapp.com/rod/your%20zueira%20here)
 
 ## Development
 
