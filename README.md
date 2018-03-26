@@ -68,6 +68,10 @@ Example: https://big-marcus-said.herokuapp.com/:meme/:text?font-family=courier&f
  * [Trump Fuck You](http://big-marcus-said.herokuapp.com/trump-fuckyou/You%27re%20fired)
  * [Trump Joinha](http://big-marcus-said.herokuapp.com/trump-joinha/Make%20America%20great%20again)
 
+* Bolsonaro
+ * [Bolsonaro Love](http://big-marcus-said.herokuapp.com/bolsonaro-love/Love)
+ * [Bolsonaro Matador](http://big-marcus-said.herokuapp.com/bolsonaro-matador/Make%20Brazol%20great%20again)
+
 * Other
  * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
  * [I Think](http://big-marcus-said.herokuapp.com/ithink/your%20zueira%20here)
