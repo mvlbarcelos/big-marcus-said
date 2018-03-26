@@ -70,7 +70,7 @@ Example: https://big-marcus-said.herokuapp.com/:meme/:text?font-family=courier&f
 
 * Bolsonaro
  * [Bolsonaro Love](http://big-marcus-said.herokuapp.com/bolsonaro-love/Love)
- * [Bolsonaro Matador](http://big-marcus-said.herokuapp.com/bolsonaro-matador/Make%20Brazol%20great%20again)
+ * [Bolsonaro Matador](http://big-marcus-said.herokuapp.com/bolsonaro-matador/Make%20Brazil%20great%20again)
 
 * Other
  * [Murrad](http://big-marcus-said.herokuapp.com/murrad/your%20zueira%20here)
